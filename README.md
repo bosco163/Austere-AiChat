@@ -60,7 +60,7 @@
    git clone https://github.com/bosco163/Austere-AiChat.git
    
    # 或下载单文件（Austere-3.0 为当前最新版本）
-   curl -O https://raw.githubusercontent.com/bosco163/Austere-AiChat/main/Austere-3.0 -o index.php
+   curl -O https://raw.githubusercontent.com/bosco163/Austere-AiChat/main/Austere-3.0.zip -o index.php
    ```
 
 2. **配置API密钥**
