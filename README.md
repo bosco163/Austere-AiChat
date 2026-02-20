@@ -170,7 +170,7 @@ MIT License - 自由使用，保留署名。
 
 ## 作者与致谢
 
-**作者**：BoscoLi  
+**作者**：BoscoLi（本人几乎完全不会写代码）
 **个人主页**：[lhyb.dpdns.org](https://lhyb.dpdns.org)  
 **项目仓库**：[github.com/bosco163/Austere-AiChat](https://github.com/bosco163/Austere-AiChat)
 
