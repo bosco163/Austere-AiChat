@@ -174,6 +174,10 @@ MIT License - 自由使用，保留署名。
 **个人主页**：[lhyb.dpdns.org](https://lhyb.dpdns.org)  
 **项目仓库**：[github.com/bosco163/Austere-AiChat](https://github.com/bosco163/Austere-AiChat)
 
+## 欢迎提建议，持续优化中 ⭐️
+
+有任何建议**欢迎**随时**提 issue**，后续会继续**优化改进** 💡
+
 **致谢**：
 - 感谢 **GLM-5 和 Kimi-K2.5** 在开发过程中承担的主力编码工作
 - 感谢 **GPT-5.3-codex** 在架构设计上的指导
