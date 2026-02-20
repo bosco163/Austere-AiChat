@@ -1,6 +1,5 @@
-
 <h1 align="center">Austere AiChat</h1>
-<p align="center"><em>极简单文件 · 极致体验 · 多模态AI对话</em></p>
+<p align="center"><em>极简单文件 · 极致爽体验</em></p>
 
 ---
 
@@ -10,6 +9,16 @@
 
 > "Austere" 意为简朴、严谨，这正是本项目的哲学：去除冗余，保留精华。
 
+### 🧠 背后的故事
+
+这个项目是**人类与AI激烈碰撞**的结晶。经过两天爆肝式的开发，期间与 AI 进行了无数次"争吵"与博弈，最终打磨出了这个版本。
+
+> **致老用户**：此前版本因 AI 生成代码质量不稳定，越改 Bug 越多，导致项目长时间停滞。本次 v3.0 彻底重构，采用更严格的代码审查策略，终于达到了可发布标准。
+
+**特别致谢参与的 AI 模型**：
+- **GLM-5**（主力开发，承担大部分代码生成与 Debug）
+- **GPT-5.3-codex**（架构顾问，协助解决复杂逻辑问题）
+
 ## 核心特性
 
 ### 🚀 极简部署
@@ -18,10 +27,10 @@
 - **自动初始化**：自动创建存储目录，开箱即用
 
 ### 🤖 强大的AI能力
-- **多模型支持**：Kimi、Qwen、GLM 等主流模型自由切换
+- **多模型支持**：支持多个模型自由切换
 - **多模态对话**：支持图片上传分析（自动Base64编码）和文档附件
 - **实时流式输出**：SSE 技术实现打字机效果，支持 **深度思考过程**展示（Reasoning Content）
-- **智能标题**：AI 自动生成会话标题，支持手动锁定
+- **智能标题**：AI 自动生成会话标题，支持锁定标题
 
 ### 💾 完善的会话管理
 - **历史记录**：本地 JSON 文件存储，支持置顶、拖拽排序
@@ -45,9 +54,13 @@
 
 ### 快速开始
 
-1. **下载文件**
+1. **下载文件**（推荐从 GitHub 获取最新版）
    ```bash
-   curl -O https://your-domain.com/austere-aichat.php -o index.php
+   # 克隆仓库
+   git clone https://github.com/bosco163/Austere-AiChat.git
+   
+   # 或下载单文件（Austere-3.0 为当前最新版本）
+   curl -O https://raw.githubusercontent.com/bosco163/Austere-AiChat/main/Austere-3.0 -o index.php
    ```
 
 2. **配置API密钥**
@@ -155,7 +168,17 @@ MIT License - 自由使用，保留署名。
 
 ---
 
-<p align="center">
-  <sub>Built with ❤️ and ☕️ | Single File Philosophy</sub>
-</p>
+## 作者与致谢
 
+**作者**：BoscoLi  
+**个人主页**：[lhyb.dpdns.org](https://lhyb.dpdns.org)  
+**项目仓库**：[github.com/bosco163/Austere-AiChat](https://github.com/bosco163/Austere-AiChat)
+
+**致谢**：
+- 感谢 **GLM-5** 在开发过程中承担的主力编码工作
+- 感谢 **GPT-5.3-codex** 在架构设计上的指导
+- 感谢所有在"激烈争吵"中坚持下来的代码行
+
+<p align="center">
+  <sub>Built with ❤️, ☕️, and 🤖 arguments | Single File Philosophy</sub>
+</p>
