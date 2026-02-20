@@ -1,10 +1,3 @@
-```markdown
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-8.0+-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/OpenAI-Compatible-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/SSE-Real--time-00C853?style=flat-square" alt="SSE">
-  <img src="https://img.shields.io/badge/Single-File-Architecture-FF6B6B?style=flat-square" alt="Single File">
-</p>
 
 <h1 align="center">Austere AiChat</h1>
 <p align="center"><em>极简单文件 · 极致体验 · 多模态AI对话</em></p>
@@ -165,4 +158,4 @@ MIT License - 自由使用，保留署名。
 <p align="center">
   <sub>Built with ❤️ and ☕️ | Single File Philosophy</sub>
 </p>
-```
+
