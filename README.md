@@ -1,4 +1,4 @@
-<h1 align="center">Austere AiChat</h1>
+<h1 align="center">Austere AiChat **v3.2**</h1>
 <p align="center"><em>极简单文件 · 极致简体验</em></p>
 
 ---
